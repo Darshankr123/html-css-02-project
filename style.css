@@ -1,0 +1,17 @@
+body {
+  background: #f1f5f9;
+}
+.container {
+  background: white;
+}
+.container h3 {
+  color: blueviolet;
+}
+
+.container p {
+  color: rgb(128, 128, 128);
+}
+
+.container.special {
+  background: rgba(0, 0, 0, 0.8);
+}
